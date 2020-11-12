@@ -1,1 +1,7 @@
-# fcb_basic_express_ejs_example
+# Express + ejs View Engine Example
+
+This is a very simple example of a message board using express-generator and ejs templating / view engine. 
+
+More info can be found on Odin's Node js Express section:
+
+https://www.theodinproject.com/courses/nodejs 
